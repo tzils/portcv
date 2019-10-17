@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portcv/static/css/main.b100e6da.chunk.css",
-    "main.js": "/portcv/static/js/main.78d39b0e.chunk.js",
-    "main.js.map": "/portcv/static/js/main.78d39b0e.chunk.js.map",
+    "main.js": "/portcv/static/js/main.f80b5969.chunk.js",
+    "main.js.map": "/portcv/static/js/main.f80b5969.chunk.js.map",
     "runtime-main.js": "/portcv/static/js/runtime-main.a9ff19bd.js",
     "runtime-main.js.map": "/portcv/static/js/runtime-main.a9ff19bd.js.map",
     "static/js/2.a3cc1d30.chunk.js": "/portcv/static/js/2.a3cc1d30.chunk.js",
     "static/js/2.a3cc1d30.chunk.js.map": "/portcv/static/js/2.a3cc1d30.chunk.js.map",
     "index.html": "/portcv/index.html",
-    "precache-manifest.6206015b70665da2ee714399227e17ea.js": "/portcv/precache-manifest.6206015b70665da2ee714399227e17ea.js",
+    "precache-manifest.4c4311dbfe5d7e2ff3147dc557ea8cbe.js": "/portcv/precache-manifest.4c4311dbfe5d7e2ff3147dc557ea8cbe.js",
     "service-worker.js": "/portcv/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/portcv/static/css/main.b100e6da.chunk.css.map"
   }
