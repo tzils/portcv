@@ -794,7 +794,7 @@ body.offcanvas {
     top: -22px;
     right: 0; }
   .progress-bar.color-1 {
-    background: #00ffff; }
+    background: #000; }
     .progress-bar.color-1:after {
       background: #000; }
     .progress-bar.color-1 span {
