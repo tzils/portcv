@@ -326,7 +326,7 @@ figure {
               font-size: 30px; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h5 {
           margin-bottom: 20px;
-          font-size: 66px;
+          font-size: 64px;
           line-height: 1.3;
           font-weight: 700; }
           @media screen and (max-width: 768px) {
@@ -334,7 +334,7 @@ figure {
               font-size: 28px; } }
         #colorlib-hero .flexslider .slider-text > .slider-text-inner h6 {
           margin-bottom: 20px;
-          font-size: 66px;
+          font-size: 64px;
           line-height: 1.3;
           font-weight: 400; }
           @media screen and (max-width: 768px) {
