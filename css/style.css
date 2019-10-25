@@ -579,7 +579,7 @@ body.offcanvas {
   line-height: 40px;
   float: left; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon i {
-    color: #fff; }
+    color: #000; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-2 {
     background: #fff; }
   .timeline-centered .timeline-entry .timeline-entry-inner .timeline-icon.color-3 {
