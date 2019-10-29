@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/portcv/static/css/main.b100e6da.chunk.css",
-    "main.js": "/portcv/static/js/main.dfbc6328.chunk.js",
-    "main.js.map": "/portcv/static/js/main.dfbc6328.chunk.js.map",
+    "main.js": "/portcv/static/js/main.844d184c.chunk.js",
+    "main.js.map": "/portcv/static/js/main.844d184c.chunk.js.map",
     "runtime-main.js": "/portcv/static/js/runtime-main.a9ff19bd.js",
     "runtime-main.js.map": "/portcv/static/js/runtime-main.a9ff19bd.js.map",
-    "static/js/2.15dd87e7.chunk.js": "/portcv/static/js/2.15dd87e7.chunk.js",
-    "static/js/2.15dd87e7.chunk.js.map": "/portcv/static/js/2.15dd87e7.chunk.js.map",
+    "static/js/2.973adcac.chunk.js": "/portcv/static/js/2.973adcac.chunk.js",
+    "static/js/2.973adcac.chunk.js.map": "/portcv/static/js/2.973adcac.chunk.js.map",
     "index.html": "/portcv/index.html",
-    "precache-manifest.4cbcbcb051760dc41d7c312b36e232e3.js": "/portcv/precache-manifest.4cbcbcb051760dc41d7c312b36e232e3.js",
+    "precache-manifest.96b63e5129eeed1ce1391fbe443859cb.js": "/portcv/precache-manifest.96b63e5129eeed1ce1391fbe443859cb.js",
     "service-worker.js": "/portcv/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/portcv/static/css/main.b100e6da.chunk.css.map"
   }
